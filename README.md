@@ -1,3 +1,5 @@
 # TwodimAUC
 
-Simulated example datasets under the regular visit scenario under the irregular visit scenario, each containing a short data recording the survival outcome and a long data recording the longitudinal biomarker.
+Simulated example dataset and sample code for calculating the two-dimensional AUC.
+
+Jing Zhang, Jing Ning, Xuelin Huang, Ruosha Li (2021+) On the Time-varying Predictive Performance of Longitudinal Biomarkers: Measure and Estimation. Statistics in Medicine. Accepted.
