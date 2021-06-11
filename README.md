@@ -1,4 +1,4 @@
-# TwodimAUC
+# AUCst
 
 Simulated example dataset and sample code for calculating the two-dimensional AUC.
 
