@@ -149,7 +149,7 @@ sort(unique(da.sim.long$vtime))  #regular visit times in the data
 obj.i=main1.sub.func(da=da.sim.short, 
                      da.long=da.sim.long,
                      sk=c(0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1, 1.1, 1.2), 
-                     tseq.eval=c(0.4,1.11,1.50,1.90), resample =1, nsap=100)
+                     tseq.eval=c(0.4,1.11,1.50,1.90), resample =1, nsap=3)
 
 # AUC.result: the estimated AUC(s,t), with s corresponding to row and t corresponding to column
 # Only has value for s<=t
